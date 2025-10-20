@@ -418,19 +418,4 @@ Content-Type: application/json
 }
 ```
 
-## 🚀 Próximos Passos
 
-- [ ] Implementar autenticação e autorização
-- [ ] Adicionar sistema de notificações push
-- [ ] Implementar cache para melhor performance
-- [ ] Adicionar testes unitários e de integração
-- [ ] Implementar logging estruturado
-- [ ] Adicionar métricas e monitoramento
-
-## 📞 Suporte
-
-Para dúvidas ou suporte, entre em contato através do repositório do projeto.
-
----
-
-**Desenvolvido com ❤️ para ajudar na prevenção de vício em apostas e jogos**
